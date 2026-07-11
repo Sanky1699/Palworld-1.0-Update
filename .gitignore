@@ -1,0 +1,5 @@
+*.log
+*.tmp
+Saved/Logs/
+crash*
+temp*
